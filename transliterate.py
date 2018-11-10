@@ -52,7 +52,8 @@ if __name__=='__main__':
         'target', choices=available_scripts, help='The romanisation to use.'
     )
     parser.add_argument(
-        'inputfile', nargs='?', type=argparse.FileType('r'), default=sys.stdin
+        'inputfile', nargs='?', type=argparse.FileType('r'), default=sys.stdin,
+        help='The text to be translated. May be a file or piped stdin.'
     )
 
     args = parser.parse_args()
