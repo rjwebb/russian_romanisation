@@ -5,7 +5,7 @@ I wrote this because I wanted to read an old Russian encyclopedia that I found a
 
 `russian_romanisation.csv` is adapted from the transliteration table in the Wikpedia article for "[Romanization of Russian](https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_table)". The code currently only swaps the Russian characters for the transliterated strings - it does not implement any of the rules specified in the Table Notes. I should probably go back and implement those at some point.
 
-## Usage
+## Usage
 
 ```
 ➜  russian_romanisation git:(master) ✗ python transliterate.py -h
