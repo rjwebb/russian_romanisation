@@ -1,5 +1,5 @@
 # russian_romanisation
-Script to transliterate text in Russian to Latin
+*Script to transliterate text in Russian to Latin*
 
 I wrote this because I wanted to read an old Russian encyclopedia that I found at home but since I don't know how to read Cyrillic characters this was pretty tough going. I hate having to rote memorise scripts so being able to compare the original text and its transliteration side by side seemed like a good approach. It turns out that there are in fact a bunch of ways of doing that so I wrote this script.
 
